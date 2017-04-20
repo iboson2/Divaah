@@ -1,0 +1,13 @@
+HTTrack3.48-22+htsswf+htsjava launched on Mon, 06 Mar 2017 13:06:39 at http://maniac.yakuzi.eu/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://maniac.yakuzi.eu/ -O1 "G:\My Web Sites\Admin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:08:15	Warning: 	File not parsed, looks like binary: maniac.yakuzi.eu/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2
+13:08:15	Warning: 	File not parsed, looks like binary: maniac.yakuzi.eu/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0
+
+HTTrack Website Copier/3.48-22 mirror complete in 1 minutes 59 seconds : 213 links scanned, 212 files written (6750701 bytes overall), 212 files updated [3245579 bytes received at 27273 bytes/sec], 4652404 bytes transferred using HTTP compression in 113 files, ratio 23%, 8.5 requests per connection
+(No errors, 2 warnings, 0 messages)
